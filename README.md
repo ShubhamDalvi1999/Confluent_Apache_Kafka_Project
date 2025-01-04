@@ -1,4 +1,4 @@
-# Kafka_Pratice
+# Kafka
 This is the code for real time streaming of data from a producer to consumer 
 
 When the producer.py and consumer.py code are running simultaniously we see the following output: on terminal 
